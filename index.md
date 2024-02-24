@@ -16,7 +16,9 @@
 
 6. Run the tests, demonstrating that they fail
 
+![Image](5.PNG)
 
+> Keys pressed: I typed out `cd lab7` then pressed `<enter>`. Then, typed out `bash test.sh` and pressed `<enter>`. 
 
 7. Edit the code file to fix the failing test
 
