@@ -22,7 +22,9 @@
 
 7. Edit the code file to fix the failing test
 
+![Image](6.PNG)
 
+> Keys pressed: I typed out `vim ListExamples.java` then pressed `<enter>`. Then, I pressed `<shift>` and `g` to get to the bottom of the code. After, I pressed `k`,`k`,`k`,`k`,`k`,`k` (6 times) to get to the line that contained `index1 += 1`. Then, I pressed `<ctrl>` and `a` to increment the nearest numerical value on that line, which was the `1` on `index1`, which incremented it to `index2` to fix the code. Then I typed out `:wq!` to save and exit vim and pressed `<enter>`
 
 8. Run the tests, demonstrating that they now succeed
 
