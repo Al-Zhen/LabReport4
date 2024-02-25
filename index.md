@@ -18,7 +18,7 @@
 
 ![Image](5.PNG)
 
-> Keys pressed: I typed out `cd lab7` then pressed `<enter>` to change to the correct directory. Then, typed out `bash`, `<space>`, `t`, `<tab>` to get `test.sh` and pressed `<enter>` to run the test. 
+> Keys pressed: I typed out `cd lab7` then pressed `<enter>` to change to the correct directory. Then, typed out `bash`, `<space>`, then `t`, `<tab>` to get `test.sh` and pressed `<enter>` to run the test. 
 
 7. Edit the code file to fix the failing test
 
