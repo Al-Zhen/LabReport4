@@ -28,7 +28,9 @@
 
 8. Run the tests, demonstrating that they now succeed
 
+![Image](8.PNG)
 
+> Keys pressed: I typed out `bash test.sh` and then pressed `<enter>`.
 
 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
