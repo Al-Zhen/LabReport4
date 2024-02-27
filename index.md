@@ -30,7 +30,7 @@
 
 ![Image](8.PNG)
 
-> Keys pressed: I typed out `bash` , `<sapce>` , `t` , `tab` to get `test.sh` and then pressed `<enter>`.
+> Keys pressed: I typed out `bash` , `<space>` , `t` , `tab` to get `test.sh` and then pressed `<enter>`.
 
 * Commit and push the resulting change to your Github account (you can pick any commit message!)
 
