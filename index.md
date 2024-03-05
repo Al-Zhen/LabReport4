@@ -22,7 +22,7 @@
 
 ![Image](5.PNG)
 
-> Keys pressed: I typed out `cd lab7` then pressed `<enter>`, this changes my current directory into the directory I want to be in, which was `lab7`, by pressing `<enter>` it executes the command, changing my current directory into the `lab7` directory. Then, typed out `bash`, `<space>`, then `t`, `<tab>` to get `test.sh`, this is to type out a script file called `test.sh` which contains commands to run the tests in `ListExamplesTest.java` and execute it using the `bash` shell. Then, I pressed `<enter>` to execute the command `bash test.sh`, which runs the `test.sh` script, containing the commands to run the tests in `ListExamplesTest.java`.
+> Keys pressed: I typed out `cd lab7` which is the directory I want to be in, which contains the files I need. Then, I pressed `<enter>` which runs the `cd lab7` command, changing my current directory into the `lab7` directory. Then, typed out `bash`, `<space>`, then `t`, `<tab>` to get `test.sh`, this is to type out a script file called `test.sh` which contains commands to run the tests in `ListExamplesTest.java` and execute it using the `bash` shell. Then, I pressed `<enter>` to execute the command `bash test.sh`, which runs the `test.sh` script, containing the commands to run the tests in `ListExamplesTest.java`.
 
 ---
 
